@@ -151,10 +151,10 @@ bool isWaterLevelFull(void){
 #define ButtonEnterPin  NODEMCU_PIN_D7
 #else
 
-#define ButtonUpPin    2 // P1
-#define ButtonDownPin  1 // p0 NODEMCU_PIN_D4
-#define ButtonStartPin  8 //P3 NODEMCU_PIN_D5
-#define ButtonEnterPin  4 //P2 NODEMCU_PIN_D6
+#define ButtonUpPin    4 // P1
+#define ButtonDownPin  8 // p0 NODEMCU_PIN_D4
+#define ButtonStartPin  1 //P3 NODEMCU_PIN_D5
+#define ButtonEnterPin  2 //P2 NODEMCU_PIN_D6
 
 #endif
 
